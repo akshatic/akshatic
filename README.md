@@ -1,7 +1,7 @@
 - 👋 Hi, I’m  Akshat Singh @akshatic
-- 👀 I’m interested in projects on JavaScript and Front-end web development.
-- 🌱 I’m currently learning basics of back-end web development.
-- 💞️ I’m looking to collaborate on and Improve in HTML, CSS, JavaScript, jQuery, React.
+- 👀 I’m interested in projects on JavaScript and Full stack web development.
+- 🌱 I’m currently learning basics of MERN Stack.
+- 💞️ I’m looking to collaborate on and Improve in MERN stack.
 - 📫 How to reach me on E-mail.. akshatsingh0806@gmail.com.
 
 <!---
